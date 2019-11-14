@@ -3,11 +3,83 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: top;
+  font-size: calc(16px + 2vmin);
+  color: white;
+}
+
+#choiceContainer {
+  display: flex;
+}
+#choiceSpacer {
+  padding: 20px;
+}
+
+#chartContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#playerChart {
+  padding: 10px;
+  background-color: #26282e;
+  font-size: 30px;
+}
+
+#chartSpacer {
+  padding: 5px;
+}
+
+#AIChart {
+  padding: 10px;
+  background-color: #26282e;
+  font-size: 30px;
+}
+
+@media only screen and (max-width: 400px) {
+  #chartContainer {
+    flex-direction: column;
+  }
+}
+
+#rockButton {
+  margin: 10px;
+}
+
+#paperButton {
+  margin: 10px;
+}
+
+#scissorsButton {
+  margin: 10px;
+}
+
+#rock {
+  width: 200px;
+  height: 200px;
+  margin: 5px;
+}
+
+#paper {
+  width: 200px;
+  height: 200px;
+  margin: 5px;
+}
+#scissors {
+  width: 200px;
+  height: 200px;
+  margin: 5px;
 }

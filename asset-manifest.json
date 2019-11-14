@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/rps-app/static/css/main.9206162f.chunk.css",
+    "main.js": "/rps-app/static/js/main.4d0ff33f.chunk.js",
+    "main.js.map": "/rps-app/static/js/main.4d0ff33f.chunk.js.map",
+    "runtime-main.js": "/rps-app/static/js/runtime-main.992461a3.js",
+    "runtime-main.js.map": "/rps-app/static/js/runtime-main.992461a3.js.map",
+    "static/js/2.22090f25.chunk.js": "/rps-app/static/js/2.22090f25.chunk.js",
+    "static/js/2.22090f25.chunk.js.map": "/rps-app/static/js/2.22090f25.chunk.js.map",
+    "index.html": "/rps-app/index.html",
+    "precache-manifest.c44393104530ecab0756c7fde74b2599.js": "/rps-app/precache-manifest.c44393104530ecab0756c7fde74b2599.js",
+    "service-worker.js": "/rps-app/service-worker.js",
+    "static/css/main.9206162f.chunk.css.map": "/rps-app/static/css/main.9206162f.chunk.css.map",
+    "static/media/paper.png": "/rps-app/static/media/paper.7ff010c6.png",
+    "static/media/rock.png": "/rps-app/static/media/rock.f3c7e8fa.png",
+    "static/media/scissors.png": "/rps-app/static/media/scissors.6c9748c7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.992461a3.js",
+    "static/js/2.22090f25.chunk.js",
+    "static/css/main.9206162f.chunk.css",
+    "static/js/main.4d0ff33f.chunk.js"
+  ]
+}

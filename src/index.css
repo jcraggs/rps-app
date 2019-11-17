@@ -56,30 +56,42 @@ body {
 }
 
 #rockButton {
-  margin: 10px;
+  width: 15em;
+  height: 15em;
+  margin: 5px;
 }
 
 #paperButton {
-  margin: 10px;
+  width: 15em;
+  height: 15em;
+  margin: 5px;
 }
 
 #scissorsButton {
-  margin: 10px;
+  width: 15em;
+  height: 15em;
+  margin: 5px;
+}
+
+#buttonContainer {
+  display: flex;
+  align-content: space-between;
+  align-items: flex-end;
 }
 
 #rock {
-  width: 200px;
-  height: 200px;
+  width: 10em;
+  height: 10em;
   margin: 5px;
 }
 
 #paper {
-  width: 200px;
-  height: 200px;
+  width: 10em;
+  height: 10em;
   margin: 5px;
 }
 #scissors {
-  width: 200px;
-  height: 200px;
+  width: 10em;
+  height: 10em;
   margin: 5px;
 }

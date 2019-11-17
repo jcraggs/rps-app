@@ -5,7 +5,7 @@ import scissorPicture from "../scissors.png";
 
 const RPSButtons = props => {
   return (
-    <div>
+    <div className="buttonContainer">
       <button
         id="rockButton"
         onClick={() => {

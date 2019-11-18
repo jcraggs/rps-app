@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1429c70b5ec658427e6ff96757ed2637",
+    "revision": "dae988ebc3d55abf36a3c24be4fd9fbf",
     "url": "/rps-app/index.html"
   },
   {
-    "revision": "6c18a475f1ba67219695",
-    "url": "/rps-app/static/css/main.9206162f.chunk.css"
+    "revision": "202909ab8d584bd445df",
+    "url": "/rps-app/static/css/main.ef11a326.chunk.css"
   },
   {
     "revision": "8e930007a18b9b7334ed",
     "url": "/rps-app/static/js/2.22090f25.chunk.js"
   },
   {
-    "revision": "6c18a475f1ba67219695",
-    "url": "/rps-app/static/js/main.4d0ff33f.chunk.js"
+    "revision": "202909ab8d584bd445df",
+    "url": "/rps-app/static/js/main.87ee800b.chunk.js"
   },
   {
     "revision": "f084a4ac22a22a98d116",

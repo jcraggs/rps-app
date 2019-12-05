@@ -2,6 +2,8 @@
 
 A React app which emulates the age-old game of Rock-Paper-Scissors. The user competes against a CPU player which randomly chooses rock, paper or scissors. Game stats, including Wins/Draws/Losses, as well as user and CPU choices are displayed.
 
+The web-app can be accessed here: https://jcraggs.github.io/rps-app/
+
 ## To run this project locally:
 
 1. Click on the repo's "Clone or Download" link and copy the URL
